@@ -1,1 +1,2 @@
-algoritmul Vigenere de criptare descris in criptare.cpp 
+Temele la Crypto
+
